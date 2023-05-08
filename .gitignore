@@ -2,3 +2,4 @@
 .lr_*
 cache
 saved_models
+.vscode
