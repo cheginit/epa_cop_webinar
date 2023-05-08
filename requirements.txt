@@ -1,0 +1,11 @@
+git+https://github.com/manujosephv/pytorch_tabular
+pygeohydro
+pynhd
+pynldas2
+hydrosignatures
+numpy
+cytoolz
+wandb
+plotly
+pyogrio
+py7zr
